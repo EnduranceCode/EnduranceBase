@@ -1,0 +1,33 @@
+{
+  "name": "endurancebase",
+  "version": "0.0.1",
+  "description": "A Joomla custom template based on Bootstrap 4 and following Google Material Design principles",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EnduranceCode/endurancebase"
+  },
+  "author": {
+    "name": "EnduranceCode",
+    "email": "endurancecode@gmail.com",
+    "url": "https://twitter.com/EnduranceCodePT"
+  },
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/EnduranceCode/endurancebase/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/EnduranceCode/endurancebase",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-cache": "^1.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-todo": "^7.0.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
